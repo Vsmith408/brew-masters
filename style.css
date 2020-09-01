@@ -1,0 +1,121 @@
+body {
+  background-color: #fff;
+}
+
+.home-page {
+  text-align: center;
+}
+
+.btn {
+  background-color: #334652;
+}
+
+.btn:hover {
+  background-color: #06588f;
+}
+
+.brand-logo,
+.logo {
+  height: 100%;
+  border-radius: 50%;
+}
+
+.nav-bar {
+  background-color: #334652;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 65px;
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.card-image {
+  width: 100%;
+}
+
+#top10 {
+  margin: 0 auto;
+  padding-bottom: 15px;
+}
+
+#top10 .card {
+  width: 100%;
+}
+.card-title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  color: white;
+  background-color: black;
+}
+/* 
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: black;
+}
+
+.label-icon {
+  background-color: goldenrod;
+}
+
+.nav-bar2 {
+  background-color: goldenrod;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+.card-text {
+} */
+
+form.example input[type='text'] {
+  margin-top: 10px;
+  margin-left: 10px;
+  padding: 10px;
+  font-size: 12px;
+  border: 1px solid grey;
+  float: left;
+  width: 20%;
+  height: 18px;
+  background: #f1f1f1;
+}
+
+/* Style the submit button */
+form.example button {
+  float: left;
+  margin-top: 10px;
+  width: 3%;
+  height: 40px;
+  padding: 10px;
+  background: #2196f3;
+  color: white;
+  font-size: 12px;
+  border: 1px solid grey;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+/* Clear floats */
+form.example::after {
+  content: '';
+  clear: both;
+  display: table;
+}
+
+form.fa-search button:hover {
+  background: #0b7dda;
+}
+
+#locationResults .card-image,
+#favorites .card-image,
+#searchResults .card-image {
+  width: 25%;
+}
