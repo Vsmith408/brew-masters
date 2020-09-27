@@ -1,6 +1,6 @@
 # Brew Masters
 
-Want to find breweries near you? Check out beer masters to do just that! Just enter your lcoation or zipcode and we'll provide you with local breweries. Already know which one you want to go to, but can't remember their hours or where they're located? Just search by brewery name and you'll receive all of that inforamtion!
+Want to find breweries near you? Check out beer masters to do just that! Just enter your location or zipcode and we'll provide you with local breweries. Already know which one you want to go to, but can't remember their hours or where they're located? Just search by brewery name and you'll receive all of that inforamtion!
 
 Cheers!
 
